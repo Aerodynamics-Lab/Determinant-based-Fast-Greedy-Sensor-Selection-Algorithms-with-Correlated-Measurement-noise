@@ -16,7 +16,7 @@ NOAA_OI_SST_V2 data provided by the NOAA/OAR/ESRL PSD, Boulder, Colorado, USA, f
 ## Code  
 ---
 ### Main program  
-- P_greedy_demo.m  
+- P_greedy_noise_demo.m  
 
 ### Function  
 #### Preprocessing  
@@ -60,12 +60,12 @@ NOAA_OI_SST_V2 data provided by the NOAA/OAR/ESRL PSD, Boulder, Colorado, USA, f
 If you use the codes in your work, please cite the software itself and relevent paper.
 ### General software reference:
 ```bibtex
-@misc{saito2019github,
-      author = {Yuji Saito},
-      title = {Determinant-based Fast Greedy Sensor Selection Algorithm},
+@misc{yamada2021github,
+      author = {Keigo Yamada},
+      title = {Determinant-based Fast Greedy Sensor Selection Algorithm with Correlated Measurement Noise},
       howpublished = {Available online},
-      year = {2019},
-      url = {https://github.com/YujiSaitoJapan/Determinant-based-Fast-Greedy-Sensor-Selection-Algorithm}
+      year = {2021},
+      url = {https://github.com/Aerodynamics-Lab/Determinant-based-Fast-Greedy-Sensor-Selection-Algorithm-with-Correlated-Measurement-noise}
 }
 ```
 ### Relevent paper reference:
